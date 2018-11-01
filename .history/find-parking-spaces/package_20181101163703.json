@@ -65,6 +65,9 @@
     "build": "node scripts/build.js",
     "test": "node scripts/test.js"
   },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "browserslist": [
     ">0.2%",
     "not dead",
@@ -117,11 +120,7 @@
       "react-app"
     ],
     "plugins": [
-      "transform-decorators-legacy"
+      "babel-plugin-transform-decorators-legacy"
     ]
-  },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
-  "devDependencies": {}
+  }
 }

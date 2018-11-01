@@ -123,5 +123,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.1.2"
+  }
 }
