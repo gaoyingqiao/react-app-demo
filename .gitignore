@@ -1,0 +1,6 @@
+# idea自动生成文件过滤
+.idea/*
+projectFilesBackup/
+
+# vscode自动生成文件过滤
+.history/
