@@ -3,4 +3,4 @@
 projectFilesBackup/
 
 # vscode自动生成文件过滤
-# .history/
+.history/
